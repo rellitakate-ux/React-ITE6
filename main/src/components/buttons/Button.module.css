@@ -1,0 +1,37 @@
+.buttonComponent {
+  font-size: 10px;
+  color: black;
+  text-transform: uppercase;
+  padding: 10px;
+  border-radius: 10px;
+  border: 2px solid #040404;
+  background: hsl(0, 100%, 100%);
+  box-shadow: 3px 3px hsl(0, 0%, 4%);
+  cursor: pointer;
+}
+
+.buttonComponent:active {
+  box-shadow: none;
+  transform: translate(3px, 3px);
+}
+
+/* sizes */
+.buttonComponent.small {
+  font-size: 8px;
+  padding: 8px;
+}
+
+.buttonComponent.medium {
+  font-size: 16px;
+  padding: 12px;
+}
+
+.buttonComponent.large {
+  font-size: 24px;
+  padding: 16px;
+}
+
+.buttonComponent.xLarge {
+  font-size: 32px;
+  padding: 20px;
+}
