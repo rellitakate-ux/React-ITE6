@@ -1,5 +1,5 @@
 import { members } from "../groupData/data";
-import style from "./Members.module.css";
+import style from "./MemberSec.module.css";
 
 const Members = () => {
   return (

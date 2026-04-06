@@ -4,11 +4,9 @@ const groupInfo = {
     `We are a group of students from the University of Northwest Samar State,
     taking up Bachelor of Science in Information Technology.This is our group landing page
     as an activity for our ITE6 subject.
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut
-    labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-    nisi ut aliquip ex ea comodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit
-    esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt
-    in culpa qui officia deserunt mollit anim id est laborum.`,
+    Currently, our group is getting our hands dirty with the basics of React.
+    We’re moving beyond simple HTML/CSS to explore the power of reusable components and reactive data.
+    It's a journey of trial and error as we learn to build the modern web, one hook at a time.`,
   ],
   contact: {
     email: "group3@gmail.com",
@@ -21,28 +19,28 @@ const members = [
     id: 1,
     name: "Lee Conarco",
     role: "Frontend Developer",
-    bio: "Lee is lorem ipsum dolor sit amet.",
+    bio: "Lee is 2nd year BSIT student",
     image: "../image/first.png",
   },
   {
     id: 2,
     name: "Dailyn Collamar",
-    role: "Leader",
-    bio: "Dailyn is lorem ipsum dolor sit amet.",
+    role: "UI/UX Developer",
+    bio: "Dailyn is 2nd year BSIT student",
     image: "../image/second.png",
   },
   {
     id: 3,
     name: "Jerson Manlabe",
     role: "Backend Developer",
-    bio: "Jerson is lorem ipsum dolor sit amet.",
+    bio: "Jerson is 2nd year BSIT student",
     image: "../image/3rd.png",
   },
   {
     id: 4,
     name: "Katelyn Rellita",
-    role: "Lorem Ipsum",
-    bio: "Katelyn is lorem ipsum dolor amet.",
+    role: "Developer",
+    bio: "Katelyn is 2nd year BSIT student",
     image: "../image/fourth.png",
   },
 ];

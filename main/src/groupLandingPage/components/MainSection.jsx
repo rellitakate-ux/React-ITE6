@@ -1,5 +1,6 @@
 import style from "./MainSection.module.css";
 import { groupInfo, members } from "../groupData/data";
+
 const MainSection = () => {
   return (
     <main className={style.mainSection}>
@@ -7,8 +8,7 @@ const MainSection = () => {
         <p className={style.sec}>BSIT - 2A </p>
         <h1 className={style.groupName}>{groupInfo.name}</h1>
         <p className={style.groupTagline}>
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptos
-          quasi, voluptate quisquam coporis.
+          A team building cool projects while exploring the basics of React.
         </p>
       </section>
 
