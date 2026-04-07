@@ -1,4 +1,4 @@
-import { members } from "../groupData/data";
+import { members } from "../../../data/data";
 import style from "./MemberSec.module.css";
 
 const Members = () => {

@@ -1,5 +1,5 @@
 import style from "./MainSection.module.css";
-import { groupInfo, members } from "../groupData/data";
+import { groupInfo, members } from "../../../data/data";
 
 const MainSection = () => {
   return (

@@ -1,6 +1,6 @@
 import style from "./Navbar.module.css";
-import Button from "./../../components/buttons/Button";
-import { groupInfo } from "../groupData/data";
+import Button from "./../../../components/buttons/Button";
+import { groupInfo } from "../../../data/data";
 
 const Navbar = () => {
   return (

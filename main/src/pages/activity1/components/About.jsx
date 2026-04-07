@@ -1,5 +1,5 @@
 import style from "./About.module.css";
-import { groupInfo } from "../groupData/data";
+import { groupInfo } from "../../../data/data";
 
 const About = () => {
   return (
