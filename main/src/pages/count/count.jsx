@@ -15,14 +15,16 @@ const Count = () => {
 
   return (
     <main className={style.container}>
-      <section className={style.title}>
-        <h1>The Counter</h1>
-        <h4>count: {count}</h4>
-      </section>
-      <div className={style.buttons}>
-        <Button btnName={"increase"} size="medium" onClick={countIncrese} />
-        <Button btnName={"decrease"} size="medium" onClick={countDecrease} />
-      </div>
+      <article className={style.countContainer}>
+        <section className={style.title}>
+          <h1>The Counter</h1>
+          <h4>count: {count}</h4>
+        </section>
+        <div className={style.buttons}>
+          <Button btnName={"increase"} size="medium" onClick={countIncrese} />
+          <Button btnName={"decrease"} size="medium" onClick={countDecrease} />
+        </div>
+      </article>
     </main>
   );
 };

@@ -1,0 +1,52 @@
+{
+  "anime_list": [
+    {
+      "id": 1,
+      "title": "Attack on Titan",
+      "image": "/image/poster1.png",
+      "author": "Hajime Isayama",
+      "genre": "Dark Fantasy",
+      "desc": "Humanity lives inside cities surrounded by enormous walls due to Titans, gigantic humanoid creatures who devour humans. Eren Yeager vows to exterminate them all after his hometown is destroyed."
+    },
+    {
+      "id": 2,
+      "title": "Fullmetal Alchemist",
+      "image": "/image/poster2.png",
+      "author": "Hiromu Arakawa",
+      "genre": "Adventure",
+      "desc": "Two brothers use alchemy to try to bring their dead mother back to life, but the attempt goes wrong. They set off on a journey to find the Philosopher's Stone to restore their bodies."
+    },
+    {
+      "id": 3,
+      "title": "Death Note",
+      "image": "/image/poster3.png",
+      "author": "Tsugumi Ohba",
+      "genre": "Thriller",
+      "desc": "A high school student discovers a supernatural notebook that kills anyone whose name is written in it. He decides to use it to rid the world of criminals, attracting the attention of a genius detective."
+    },
+    {
+      "id": 4,
+      "title": "Naruto",
+      "image": "/image/poster4.png",
+      "author": "Masashi Kishimoto",
+      "genre": "Action",
+      "desc": "Naruto Uzumaki is a young ninja who seeks recognition from his peers and dreams of becoming the Hokage, the leader of his village. A story of friendship, sacrifice, and never giving up."
+    },
+    {
+      "id": 5,
+      "title": "One Piece",
+      "image": "/image/poster5.png",
+      "author": "Eiichiro Oda",
+      "genre": "Adventure",
+      "desc": "Monkey D. Luffy sets sail with his crew of pirates to find the legendary treasure One Piece and become the King of the Pirates. The greatest adventure manga ever told."
+    },
+    {
+      "id": 6,
+      "title": "Demon Slayer",
+      "image": "/image/poster6.png",
+      "author": "Koyoharu Gotouge",
+      "genre": "Action",
+      "desc": "Tanjiro Kamado becomes a demon slayer after his family is slaughtered and his sister Nezuko is turned into a demon. He trains to find a cure and avenge his family."
+    }
+  ]
+}

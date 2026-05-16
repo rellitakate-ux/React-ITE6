@@ -11,7 +11,7 @@ const Members = () => {
 
       <section className={style.section}>
         {members.map((member) => (
-          <main className={style.memHolder}>
+          <div className={style.memHolder}>
             <section
               className={style.isMember}
               data-num={String(member.id).padStart(2, "0")}
@@ -32,7 +32,7 @@ const Members = () => {
               <p className={style.role}>{member.role}</p>
               <p className={style.bio}>{member.bio}</p>
             </figure>
-          </main>
+          </div>
         ))}
       </section>
     </main>
