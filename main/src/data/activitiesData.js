@@ -37,7 +37,7 @@ export const projects = [
     route: "/Activity2",
     title: "Click Game",
     subtitle: "Hawak Mo Ba?",
-    desc: "Drag-and-drop form creation tool with conditional logic, payment integrations, and a powerful submission pipeline. Used by 3,000+ businesses.",
+    desc: "A clicker game as an introduction to event handling and hooks in React. Click as fast as you can before the timer runs out!",
     accent: "#FF6B6B",
     year: "2026",
     status: "CHECKED",
