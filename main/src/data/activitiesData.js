@@ -28,6 +28,7 @@ export const projects = [
     title: "Landing Page",
     subtitle: "Basic React Landing Page",
     desc: "A simple landing page built with React, showcasing a hero section, features, and a call-to-action.",
+    accent: "#dcc601",
     year: "2026",
     status: "CHECKED",
   },
